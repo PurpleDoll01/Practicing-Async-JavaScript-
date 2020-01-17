@@ -1,0 +1,16 @@
+{
+  "name": "async-course",
+  "version": "1.0.0",
+  "description": "Working with async in JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "async"
+  ],
+  "author": "PurpleDoll",
+  "license": "MIT"
+}
